@@ -1,6 +1,21 @@
 # 🕵️ grCyb3r — Hacker's Hideout
 ### TryHackMe | Splunk SIEM Investigation Write-Up
 
+SOC Investigation documenting a two-phase attack involving LFI exploitation and SSH brute-force activity through log analysis and event correlation using Splunk SIEM.
+
+---
+
+## 🛠 Skills Demonstrated
+
+• SIEM Log Analysis (Splunk)  
+• Threat Detection  
+• Incident Investigation  
+• Event Correlation  
+• IOC Identification  
+• Attack Timeline Reconstruction  
+• Web Exploitation Analysis (LFI)  
+• SSH Brute-Force Detection  
+
 ---
 
 | Field | Details |
