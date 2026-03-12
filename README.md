@@ -255,4 +255,5 @@ index=* source="/var/log/auth.log" "Accepted password" "192.168.178.83"
 
 ---
 
-*grCyb3r | Fabio Martines Laiola — SOC Investigation Portfolio | — TryHackMe Write-Up Series*
+grCyb3r | Fabio Martines Laiola  
+SOC Investigation Portfolio | TryHackMe Write-Up Series
